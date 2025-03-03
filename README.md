@@ -1,4 +1,4 @@
-🖼️ graphic_arts
+🛠️ graphic_arts
 
 📌 Описание
 
